@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\soma2\soma2numero\obj\Debug\netcoreapp3.1\soma2numero.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\soma2\soma2numero\obj\Debug\netcoreapp3.1\soma2numero.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\soma2\soma2numero\obj\Debug\netcoreapp3.1\soma2numero.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\soma2\soma2numero\bin\Debug\netcoreapp3.1\soma2numero.exe
+C:\Users\Maria Luiza\Documents\Luiza\soma2\soma2numero\bin\Debug\netcoreapp3.1\soma2numero.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\soma2\soma2numero\bin\Debug\netcoreapp3.1\soma2numero.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\soma2\soma2numero\bin\Debug\netcoreapp3.1\soma2numero.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\soma2\soma2numero\bin\Debug\netcoreapp3.1\soma2numero.dll
+C:\Users\Maria Luiza\Documents\Luiza\soma2\soma2numero\bin\Debug\netcoreapp3.1\soma2numero.pdb
+C:\Users\Maria Luiza\Documents\Luiza\soma2\soma2numero\obj\Debug\netcoreapp3.1\soma2numero.dll
+C:\Users\Maria Luiza\Documents\Luiza\soma2\soma2numero\obj\Debug\netcoreapp3.1\soma2numero.pdb
